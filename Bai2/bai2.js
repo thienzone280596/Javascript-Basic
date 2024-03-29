@@ -1,2 +1,2 @@
 console.log('Hello world from javascript')
-console.log('Hello Thien')
+console.log('Hello Thien voi javascript')
